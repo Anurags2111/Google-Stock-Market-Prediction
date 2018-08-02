@@ -8,3 +8,12 @@ I've used 5-year Google Stock market dataset to train the models.
 
 <img width="545" alt="13" src="https://user-images.githubusercontent.com/23147497/43595532-88d8c388-969a-11e8-8edb-0b71c6da04ff.png">
 
+![forget](https://user-images.githubusercontent.com/23147497/43595771-1d65288e-969b-11e8-873a-899a8c2a0170.png)
+
+
+![input](https://user-images.githubusercontent.com/23147497/43595775-1f7a7494-969b-11e8-8e41-daafcebafb99.png)
+
+![lstm3-focus-c](https://user-images.githubusercontent.com/23147497/43595780-210486ec-969b-11e8-96ec-157584ca1de9.png)
+
+![lstm3-focus-o](https://user-images.githubusercontent.com/23147497/43595782-2261e048-969b-11e8-8179-c508c9c81393.png)
+
